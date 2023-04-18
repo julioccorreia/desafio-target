@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "name": "desafio-target",
+  "version": "1.0.0",
+  "description": "Desafio para a vaga de estágio da Target Sistemas",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioccorreia/desafio-target.git"
+  },
+  "author": "Julio Gazige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioccorreia/desafio-target/issues"
+  },
+  "homepage": "https://github.com/julioccorreia/desafio-target#readme"
+}
